@@ -7,3 +7,5 @@ Tons of thanks to my team members:
 - Vu Nguyen Nang Khanh
 
 About the dataset, we got the data of Bitcoin's price from Yahoo Finance from 10/03/2014 to 03/24/2023.
+
+If you have any ideas/methods on how to improve this project, please feel free to commit changes.
